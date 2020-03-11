@@ -1,0 +1,89 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+
+body {
+  background: url("new.png") center -81px no-repeat;
+  background-size:100%;
+}
+
+.nav-container {
+  /* position: relative; */
+  height: 36px;
+  margin-top: 84px;
+}
+
+nav {
+  width:980px;
+  height: 100%;
+  margin: auto;
+  display: flex;
+  border-radius: 4px;
+  background-color: black;
+}
+
+.verse {
+  width:100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: auto auto;
+  height: 104px;
+  margin-top: 30px;
+  background-image: url("heading1.png");
+}
+
+.everyone {
+  width:100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: auto auto;
+  height: 82px;
+  margin-top: -10px;
+  margin-bottom: 30px;
+  background-image: url("heading2.png");
+}
+
+.watch {
+  width:100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: auto auto;
+  height: 31px;
+  margin-top: 10px;
+  background-image: url("heading3.png");
+}
+
+.container {
+  display: flex;
+  width:100%;
+  margin-top: 150px;
+}
+
+.item {
+  width: 25%;
+  height: 200px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: auto auto;
+  margin: 3px 2px 2px 0;
+  background-color: white;
+}
+
+.item1 {
+  background-image: url("iphone.jpg")
+}
+
+.item2 {
+  background-image: url("iphon2.jpg");
+}
+
+.item3 {
+  background-image: url("30.jpg")
+}
+
+.item4 {
+  background-image: url("supplier.jpg")
+}
