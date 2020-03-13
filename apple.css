@@ -22,8 +22,8 @@ nav {
   margin: auto;
   display: flex;
   border-radius: 4px;
-  position:relative;
-  top:2em;
+  position: relative;
+  top: 2em;
   background: linear-gradient(rgb(119, 117, 120) 50%, rgb(96, 97, 97) 50%);
 }
 
