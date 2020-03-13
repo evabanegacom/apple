@@ -6,7 +6,7 @@
 
 
 body {
-  background: url("new.png") center -81px no-repeat;
+  background: url("images/new.png") center -81px no-repeat;
   background-size:100%;
 }
 
@@ -17,7 +17,7 @@ body {
 }
 
 nav {
-  width:980px;
+  width: 980px;
   height: 100%;
   margin: auto;
   display: flex;
@@ -34,7 +34,7 @@ nav {
   background-size: auto auto;
   height: 104px;
   margin-top: 50px;
-  background-image: url("heading1.png");
+  background-image: url("images/heading1.png");
 }
 
 .everyone {
@@ -45,7 +45,7 @@ nav {
   height: 82px;
   margin-top: -10px;
   margin-bottom: 30px;
-  background-image: url("heading2.png");
+  background-image: url("images/heading2.png");
 }
 
 .watch {
@@ -55,12 +55,12 @@ nav {
   background-size: auto auto;
   height: 31px;
   margin-top: 10px;
-  background-image: url("heading3.png");
+  background-image: url("images/heading3.png");
 }
 
 .container {
   display: flex;
-  width:100%;
+  width: 100%;
   margin-top: 150px;
 }
 
@@ -70,38 +70,39 @@ nav {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: auto auto;
-  position:relative;
-  top:-1.4em;
+  position: relative;
+  top: -1.4em;
   background-color: white;
 }
 
 .item1 {
-  background-image: url("iphone.jpg")
+  background-image: url("images/iphone.jpg");
 }
 
 .item2 {
-  background-image: url("iphon2.jpg");
+  background-image: url("images/iphon2.jpg");
 }
 
 .item3 {
-  background-image: url("30.jpg");
+  background-image: url("images/30.jpg");
 }
 
 .item4 {
-  background-image: url("supplier.jpg")
+  background-image: url("images/supplier.jpg");
 }
-.nav-items{
-  width:13%;
-  border:1px solid rgba(45, 45, 45, 0.2);
-  border-right:none;
+
+.nav-items {
+  width: 13%;
+  border: 1px solid rgba(45, 45, 45, 0.2);
+  border-right: none;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: auto auto;
-  border-radius:4px;
+  border-radius: 4px;
 }
 
-.nav1{
-  background-image: url("apple.png");
+.nav1 {
+  background-image: url("images/apple.png");
   background-size: 22px;
 }
 
@@ -111,62 +112,62 @@ header a:hover {
 
 .nav2{
   background-size: 22px;
-  color:white;
-  display:flex;
+  color: white;
+  display: flex;
   justify-content: center;
-  align-items:center;
-  font-weight:600px;
-  text-decoration:none;
+  align-items: center;
+  font-weight: 600px;
+  text-decoration: none;
 }
 
 input {
-  display:flex;
+  display: flex;
   justify-content: center;
-  align-items:center;
-  background-color:transparent;
-  position:relative;
-  top:0.7em;
-  background: url("search2.png");
-  background-size:14px;
-  background-repeat:no-repeat;
-  margin:auto auto;
-  border:2px solid #555;
-  width:90%;
-  height:17px;
+  align-items: center;
+  background-color: transparent;
+  position: relative;
+  top: 0.7em;
+  background-image: url("images/search2.png");
+  background-size: 14px;
+  background-repeat: no-repeat;
+  margin: auto auto;
+  border: 2px solid #555;
+  width: 90%;
+  height: 17px;
   background-position: 5px;
-  border-radius:12px;
+  border-radius: 12px;
 }
 
 header div{
-  border:1px solid rgba(45, 45, 45, 0.2);
-  width:14%;
+  border: 1px solid rgba(45, 45, 45, 0.2);
+  width: 14%;
 }
 
 footer{
-  margin-left:120px;
-  font-size:10px;
-  color:grey;
+  margin-left: 120px;
+  font-size: 10px;
+  color: grey;
 }
 
 footer div{
-  float:right;
-  position:relative;
-  left:-10em;
-  top:-5.6em;
-  text-indent:1em;
+  float: right;
+  position: relative;
+  left: -10em;
+  top: -5.6em;
+  text-indent: 1em;
 }
 
 .usd img{
-  position:relative;
-  top:0.5em;
+  position: relative;
+  top: 0.5em;
 }
 
 footer p{
-  line-height:29px;
-  font-size:12px;
+  line-height: 29px;
+  font-size: 12px;
 }
 
 footer a {
-  color:cornflowerblue;
-  font-weight:600;
+  color: cornflowerblue;
+  font-weight: 600;
 }
