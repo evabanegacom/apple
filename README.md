@@ -6,7 +6,7 @@ Here i built a satic obolete apple webpage
 
 This is a solo project about building a webpage with background images and gradients 
 
-![screenshot](images/apple-project.png)
+![screenshot](apple-project.png)
 
 Additional description about the project and its features.
 
