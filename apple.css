@@ -76,7 +76,7 @@ nav {
 }
 
 .item1 {
-  background-image: url("images/iphone.jpg")
+  background-image: url("images/iphone.jpg");
 }
 
 .item2 {
@@ -88,8 +88,9 @@ nav {
 }
 
 .item4 {
-  background-image: url("images/supplier.jpg")
+  background-image: url("images/supplier.jpg");
 }
+
 .nav-items {
   width: 13%;
   border: 1px solid rgba(45, 45, 45, 0.2);
@@ -126,7 +127,7 @@ input {
   background-color: transparent;
   position: relative;
   top: 0.7em;
-  background: url("images/search2.png");
+  background-image: url("images/search2.png");
   background-size: 14px;
   background-repeat: no-repeat;
   margin: auto auto;
